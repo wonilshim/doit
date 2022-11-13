@@ -1,7 +1,9 @@
-# doit
-Do it whatever you can for Earth
+# QuaterView Action
+골드메탈 강좌
+https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
 
 # History
-2022-11-10
-- 케릭터와 제스쳐 애미메이션 다운로드(AssetStore - FREE Low Poly Human - RPG Character)
-- TPS 구현(Idle/Run만 사용)
+2022-11-13
+- 3D Project template
+- Asset Store : Quarter View 3D Action Assets Pack
+

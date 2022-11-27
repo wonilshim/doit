@@ -15,13 +15,21 @@ public class TrashControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Pick
+        if(Input.GetMouseButtonDown(0)) {
+            Debug.Log("Click");
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            Physics.Raycast(ray, out hit);
+            if(hit.collider != null) {
+                GameObject currentTouch = hit.transform.gameObject;
+
+                Debug.Log("Pick");
+
+            }
+        }
         //Moving
         transform.position += Vector3.down * Time.deltaTime * moving_speed;
-
-        //Destory
-        if(transform.position.y<-6f){
-            Destroy(gameObject);
-        }
-        
+       
     }
 }

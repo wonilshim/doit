@@ -125,18 +125,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -144,10 +132,10 @@ TextureImporter:
       name: recyclable-waste-collage-in-white_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 879
-        width: 113
-        height: 129
+        x: 825
+        y: 405
+        width: 179
+        height: 149
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,8 +143,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01cf945ecd5977f4187ff708d6338d7b
-      internalID: -1109805164
+      spriteID: fd9c55b7e4b7a9e45af271772ac920ad
+      internalID: 1909471374
       vertices: []
       indices: 
       edges: []
@@ -165,10 +153,10 @@ TextureImporter:
       name: recyclable-waste-collage-in-white_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 877
-        width: 119
-        height: 139
+        x: 193
+        y: 735
+        width: 170
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +164,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93091209a1464be4598f7b9b95a9a63a
-      internalID: 409144439
+      spriteID: 6fcebd87a108a0b4f894da5fc9c44749
+      internalID: -1094702653
       vertices: []
       indices: 
       edges: []
@@ -186,10 +174,10 @@ TextureImporter:
       name: recyclable-waste-collage-in-white_2
       rect:
         serializedVersion: 2
-        x: 12
-        y: 879
-        width: 125
-        height: 137
+        x: 5
+        y: 287
+        width: 175
+        height: 147
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,8 +185,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43e5cd72b9970b54982e3e091551cf72
-      internalID: -1269329245
+      spriteID: 81e6a1a7a4fd5c54585344b1ba89b0eb
+      internalID: 1273081640
       vertices: []
       indices: 
       edges: []
@@ -207,10 +195,52 @@ TextureImporter:
       name: recyclable-waste-collage-in-white_3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 879
-        width: 92
-        height: 141
+        x: 845
+        y: 2
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0168f2f345cf343b86e6ad1f062ab0
+      internalID: 1914464409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recyclable-waste-collage-in-white_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 823
+        width: 104
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493d40a1a56b41428c336d083b56ab4
+      internalID: 1577647445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recyclable-waste-collage-in-white_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 374
+        width: 172
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,8 +248,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84fac6f0242ba374eaf388bdd88f876d
-      internalID: 594288209
+      spriteID: a9e76ee44daf9994499222ec41247aed
+      internalID: 115577350
       vertices: []
       indices: 
       edges: []
@@ -235,10 +265,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      recyclable-waste-collage-in-white_0: -1109805164
-      recyclable-waste-collage-in-white_3: 594288209
-      recyclable-waste-collage-in-white_2: -1269329245
-      recyclable-waste-collage-in-white_1: 409144439
+      recyclable-waste-collage-in-white_4: 1577647445
+      recyclable-waste-collage-in-white_0: 1909471374
+      recyclable-waste-collage-in-white_3: 1914464409
+      recyclable-waste-collage-in-white_2: 1273081640
+      recyclable-waste-collage-in-white_5: 115577350
+      recyclable-waste-collage-in-white_1: -1094702653
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
